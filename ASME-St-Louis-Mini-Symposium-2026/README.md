@@ -1,2 +1,0 @@
-# ASME St. Louis Mini Symposium 2026
-## Transient Thermal Analysis of Active and Passive Interventions for Next-Generation Wildland Firefighter Emergency Shelters
